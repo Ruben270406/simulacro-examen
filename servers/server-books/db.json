@@ -1,0 +1,544 @@
+{
+  "books": [
+    {
+      "book_id": 194803835,
+      "name": "Funny Story",
+      "author": "Emily Henr",
+      "votes": 179349,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1717213921l/194803835._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/194803835-funny-story?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 195820804,
+      "name": "Just for the Summer",
+      "author": "Abby Jimene",
+      "votes": 140786,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730397518l/195820804._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/195820804-just-for-the-summer?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 181350327,
+      "name": "Bride",
+      "author": "Ali Hazelwoo",
+      "votes": 99290,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688418360l/181350327.jpg",
+      "url": "https://www.goodreads.com/book/show/181350327-bride?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 127611580,
+      "name": "Leather & Lark",
+      "author": "Brynne Weave",
+      "votes": 41321,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703350345l/127611580.jpg",
+      "url": "https://www.goodreads.com/book/show/127611580-leather-lark?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 215192073,
+      "name": "Play Along",
+      "author": "Liz Tomford",
+      "votes": 40988,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719270037l/215192073._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/215192073-play-along?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 175399563,
+      "name": "King of Sloth",
+      "author": "Ana Huan",
+      "votes": 39476,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1702763723l/175399563._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/175399563-king-of-sloth?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 195645746,
+      "name": "Wild Love",
+      "author": "Elsie Silve",
+      "votes": 34992,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706143801l/195645746.jpg",
+      "url": "https://www.goodreads.com/book/show/195645746-wild-love?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 210163133,
+      "name": "The Cinnamon Bun Book Store",
+      "author": "Laurie Gilmor",
+      "votes": 33652,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725538198l/210163133._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/210163133-the-cinnamon-bun-book-store?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 199797582,
+      "name": "The Paradise Problem",
+      "author": "Christina Laure",
+      "votes": 32715,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697744363l/199797582._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199797582-the-paradise-problem?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 197639422,
+      "name": "This Summer Will Be Different",
+      "author": "Carley Fortun",
+      "votes": 29357,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697498675l/197639422._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/197639422-this-summer-will-be-different?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 199440249,
+      "name": "The Pairing",
+      "author": "Casey McQuisto",
+      "votes": 11640,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705592447l/199440249._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199440249-the-pairing?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 199798652,
+      "name": "Daydream",
+      "author": "Hannah Grac",
+      "votes": 11560,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699882393l/199798652._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199798652-daydream?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 195790586,
+      "name": "The Rom-Commers",
+      "author": "Katherine Cente",
+      "votes": 10607,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698261813l/195790586._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/195790586-the-rom-commers?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 198972014,
+      "name": "Not in Love",
+      "author": "Ali Hazelwoo",
+      "votes": 10380,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696429894l/198972014._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/198972014-not-in-love?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 182761439,
+      "name": "This Could Be Us",
+      "author": "Kennedy Rya",
+      "votes": 7742,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701270523l/182761439._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/182761439-this-could-be-us?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 195532965,
+      "name": "Swift and Saddled",
+      "author": "Lyla Sag",
+      "votes": 6751,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693114168l/195532965._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/195532965-swift-and-saddled?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 173404023,
+      "name": "A Love Song for Ricki Wilde",
+      "author": "Tia William",
+      "votes": 6038,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688215621l/173404023.jpg",
+      "url": "https://www.goodreads.com/book/show/173404023-a-love-song-for-ricki-wilde?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 212432167,
+      "name": "How to End a Love Story",
+      "author": "Yulin Kuan",
+      "votes": 5856,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1714579180l/212432167._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/212432167-how-to-end-a-love-story?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 199928276,
+      "name": "The Love of My Afterlife",
+      "author": "Kirsty Greenwoo",
+      "votes": 5488,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1719926192l/199928276._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199928276-the-love-of-my-afterlife?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 197144545,
+      "name": "Lies and Weddings",
+      "author": "Kevin Kwa",
+      "votes": 4979,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1692845844l/197144545._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/197144545-lies-and-weddings?from_choice=true",
+      "genre": "romance"
+    },
+    {
+      "book_id": 201242757,
+      "name": "You Like It Darker",
+      "author": "Stephen Kin",
+      "votes": 60901,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699311050l/201242757._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/201242757-you-like-it-darker?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 199798006,
+      "name": "We Used to Live Here",
+      "author": "Marcus Kliewe",
+      "votes": 46932,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697756012l/199798006._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199798006-we-used-to-live-here?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 127306440,
+      "name": "What Feasts at Night",
+      "author": "T. Kingfishe",
+      "votes": 24093,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683668946l/127306440.jpg",
+      "url": "https://www.goodreads.com/book/show/127306440-what-feasts-at-night?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 196614815,
+      "name": "Murder Road",
+      "author": "Simone St. Jame",
+      "votes": 23553,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691937111l/196614815._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/196614815-murder-road?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 195790870,
+      "name": "Bury Your Gays",
+      "author": "Chuck Tingl",
+      "votes": 20207,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697739086l/195790870._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/195790870-bury-your-gays?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 195703882,
+      "name": "The Eyes Are the Best Part",
+      "author": "Monika Ki",
+      "votes": 17400,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696808869l/195703882._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/195703882-the-eyes-are-the-best-part?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 199757490,
+      "name": "Incidents Around the House",
+      "author": "Josh Malerma",
+      "votes": 15757,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704742096l/199757490._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199757490-incidents-around-the-house?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 199798522,
+      "name": "I Was a Teenage Slasher",
+      "author": "Stephen Graham Jone",
+      "votes": 15669,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720470227l/199798522._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199798522-i-was-a-teenage-slasher?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 157035866,
+      "name": "Diavola",
+      "author": "Jennifer Marie Thorn",
+      "votes": 15154,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687143177l/157035866.jpg",
+      "url": "https://www.goodreads.com/book/show/157035866-diavola?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 204294824,
+      "name": "Sleep Tight",
+      "author": "J.H. Marker",
+      "votes": 12086,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709801306l/204294824.jpg",
+      "url": "https://www.goodreads.com/book/show/204294824-sleep-tight?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 203608552,
+      "name": "So Thirsty",
+      "author": "Rachel Harriso",
+      "votes": 5345,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1710472635l/203608552._SX318_.jpg",
+      "url": "https://www.goodreads.com/book/show/203608552-so-thirsty?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 205064706,
+      "name": "The Book of Witching",
+      "author": "C.J. Cook",
+      "votes": 5333,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1715284321l/205064706._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/205064706-the-book-of-witching?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 193544852,
+      "name": "My Darling Dreadful Thing",
+      "author": "Johanna van Vee",
+      "votes": 5327,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695223152l/193544852._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/193544852-my-darling-dreadful-thing?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 203956643,
+      "name": "A Sunny Place for Shady People",
+      "author": "Mariana Enríque",
+      "votes": 5159,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711734790l/203956643._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/203956643-a-sunny-place-for-shady-people?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 205673392,
+      "name": "The Bog Wife",
+      "author": "Kay Chroniste",
+      "votes": 4189,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705727772l/205673392._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/205673392-the-bog-wife?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 178019710,
+      "name": "The Angel of Indian Lake",
+      "author": "Stephen Graham Jone",
+      "votes": 3467,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1687711744l/178019710.jpg",
+      "url": "https://www.goodreads.com/book/show/178019710-the-angel-of-indian-lake?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 192724951,
+      "name": "Indian Burial Ground",
+      "author": "Nick Medin",
+      "votes": 2969,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697246029l/192724951._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/192724951-indian-burial-ground?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 203163914,
+      "name": "House of Bone and Rain",
+      "author": "Gabino Iglesia",
+      "votes": 1945,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706838866l/203163914._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/203163914-house-of-bone-and-rain?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 205064715,
+      "name": "This Cursed House",
+      "author": "Del Sandee",
+      "votes": 1690,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708704870l/205064715._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/205064715-this-cursed-house?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 201632567,
+      "name": "Blood Like Mine",
+      "author": "Stuart Nevill",
+      "votes": 820,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1708461136l/201632567._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/201632567-blood-like-mine?from_choice=true",
+      "genre": "terror"
+    },
+    {
+      "book_id": 198902277,
+      "name": "The Wedding People",
+      "author": "Alison Espac",
+      "votes": 94733,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721918653l/198902277.jpg",
+      "url": "https://www.goodreads.com/book/show/198902277-the-wedding-people?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 208931300,
+      "name": "Intermezzo",
+      "author": "Sally Roone",
+      "votes": 67268,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716387455l/208931300._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/208931300-intermezzo?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 133938826,
+      "name": "Welcome to the Hyunam-Dong Bookshop",
+      "author": "Hwang Bo-Reu",
+      "votes": 51958,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1688424684l/133938826.jpg",
+      "url": "https://www.goodreads.com/book/show/133938826-welcome-to-the-hyunam-dong-bookshop?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 195430687,
+      "name": "Blue Sisters",
+      "author": "Coco Mellor",
+      "votes": 50659,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726685281l/195430687._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/195430687-blue-sisters?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 208516656,
+      "name": "Here One Moment",
+      "author": "Liane Moriart",
+      "votes": 48432,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1721670560l/208516656._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/208516656-here-one-moment?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 200484931,
+      "name": "Swan Song",
+      "author": "Elin Hilderbran",
+      "votes": 41212,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1698505960l/200484931._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/200484931-swan-song?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 198688460,
+      "name": "Good Material",
+      "author": "Dolly Alderto",
+      "votes": 33508,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703948991l/198688460._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/198688460-good-material?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 200987323,
+      "name": "I Hope This Finds You Well",
+      "author": "Natalie Su",
+      "votes": 30650,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729545169l/200987323._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/200987323-i-hope-this-finds-you-well?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 199534613,
+      "name": "Margo's Got Money Troubles",
+      "author": "Rufi Thorp",
+      "votes": 27439,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701221812l/199534613._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199534613-margo-s-got-money-troubles?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 139400713,
+      "name": "Martyr!",
+      "author": "Kaveh Akba",
+      "votes": 25992,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1683818219l/139400713.jpg",
+      "url": "https://www.goodreads.com/book/show/139400713-martyr?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 174147294,
+      "name": "Wandering Stars",
+      "author": "Tommy Orang",
+      "votes": 9041,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695837414l/174147294.jpg",
+      "url": "https://www.goodreads.com/book/show/174147294-wandering-stars?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 62929342,
+      "name": "Real Americans",
+      "author": "Rachel Khon",
+      "votes": 8546,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1691858842l/62929342._SX318_.jpg",
+      "url": "https://www.goodreads.com/book/show/62929342-real-americans?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 200028726,
+      "name": "Sandwich",
+      "author": "Catherine Newma",
+      "votes": 8108,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699631079l/200028726._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/200028726-sandwich?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 204811915,
+      "name": "Tell Me Everything",
+      "author": "Elizabeth Strou",
+      "votes": 7276,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1726253855l/204811915._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/204811915-tell-me-everything?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 197798168,
+      "name": "All Fours",
+      "author": "Miranda Jul",
+      "votes": 5655,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695913995l/197798168._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/197798168-all-fours?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 205478762,
+      "name": "Playground",
+      "author": "Richard Power",
+      "votes": 5039,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712677708l/205478762._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/205478762-playground?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 199344873,
+      "name": "Same As It Ever Was",
+      "author": "Claire Lombard",
+      "votes": 4746,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1701715475l/199344873.jpg",
+      "url": "https://www.goodreads.com/book/show/199344873-same-as-it-ever-was?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 199793431,
+      "name": "The Mighty Red",
+      "author": "Louise Erdric",
+      "votes": 4021,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1712837291l/199793431._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/199793431-the-mighty-red?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 176443453,
+      "name": "Greta & Valdin",
+      "author": "Rebecca K. Reill",
+      "votes": 3757,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686503205l/176443453.jpg",
+      "url": "https://www.goodreads.com/book/show/176443453-greta-valdin?from_choice=true",
+      "genre": "fiction"
+    },
+    {
+      "book_id": 220572240,
+      "name": "Colored Television",
+      "author": "Danzy Senn",
+      "votes": 2151,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1729343974l/220572240._SY475_.jpg",
+      "url": "https://www.goodreads.com/book/show/220572240-colored-television?from_choice=true",
+      "genre": "fiction"
+    }
+  ]
+}
